@@ -1,0 +1,13 @@
+{
+  "name": "edudonor-main",
+  "version": "1.0.0",
+  "description": "Edudoner is a prominent and forward-thinking organization dedicated to fostering education and innovation in the field of blockchain technology, with a specific focus on the Ethereum blockchain. As a distinguished scholarship donor, Edudoner strives to empower aspiring students, researchers, and professionals by providing them with financial support to pursue their educational and research endeavors in this exciting and rapidly evolving field.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
